@@ -1,1 +1,1 @@
-# 2022_tel-ran_inux
+# 2022_tel-ran_linux
